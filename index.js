@@ -1,3 +1,6 @@
+import {Cliente} from "./Cliente.js"
+import {ContaCorrente} from "./ContaCorrente.js"
+ 
 const cliente1 = new cliente();
 cliente1.nome = "Walison";
 cliente1.cpf = 23578965469;
